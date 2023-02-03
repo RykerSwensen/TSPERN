@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.6.6"
+  }
+}
