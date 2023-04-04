@@ -20,7 +20,7 @@ Tailwind CSS,
 Docker
 
 
-[Software Demo Video Summary]()
+[Software Demo Video Summary](https://youtu.be/Sol_LbAS7no)
 
 [Software Demo Youtube Playlist](https://youtube.com/playlist?list=PL-zZ5EH-lCGJRKcp54DC-v68XLcOX7Yqn)
 
