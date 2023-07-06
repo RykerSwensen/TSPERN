@@ -1,4 +1,6 @@
 # Overview
+This site was made for the Vivacity Tech Software Developer Application Exercise. 
+
 The goal for this project is to develop a site dedicated to mini itx gaming pc's. The community is growing every day, however the only active community for mini itx gaming pc's is inside of Reddit. 
 
 I am personally not a reddit user, and don't like to engage in social media as much as possible. When I want to look at mini itx gaming pc's, I just want to see others creativity and work. I don't want to see adds, negative news, or the often negative reddit community. 
